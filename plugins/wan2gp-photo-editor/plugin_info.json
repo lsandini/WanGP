@@ -1,0 +1,9 @@
+{
+  "name": "Photo Editor",
+  "author": "Lorenzo Sandini",
+  "version": "1.0.0",
+  "description": "Instruction-based photo edits (Qwen Image 2.1 / Qwen Edit / Flux Klein), optionally limited to a painted area.",
+  "type": "app",
+  "date": "2026-10-31",
+  "wan2gp_version": ""
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Talking Avatar",
+  "author": "Lorenzo Sandini",
+  "version": "1.0.0",
+  "description": "Text + portrait -> talking video: OmniVoice voice design speech, then InfiniteTalk lip-sync.",
+  "type": "app",
+  "date": "2026-10-31",
+  "wan2gp_version": ""
+}
